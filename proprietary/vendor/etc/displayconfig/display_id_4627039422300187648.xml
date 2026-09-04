@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<!-- MIUI ADD: Adapt_MIUIAdaptFrame -->
+<displayConfiguration>
+    <!-- Global Brightness-Nit mapping -->
+    <screenBrightnessMap>
+        <point>
+            <value>0.000854597</value>
+            <nits>2.0</nits>
+        </point>
+        <point>
+            <value>0.499938</value>
+            <nits>500.0</nits>
+        </point>
+        <point>
+            <value>0.699914540</value>
+            <nits>700.0</nits>
+        </point>
+        <point>
+            <value>0.952386766</value>
+            <nits>1600.0</nits>
+        </point>
+        <point>
+            <value>1.0</value>
+            <nits>4500.0</nits>
+        </point>
+    </screenBrightnessMap>
+    <!-- root node for HBM-->
+    <highBrightnessMode enabled="true">
+        <!-- Transition point brightness from normal to HBM mode -->
+        <transitionPoint>0.499938</transitionPoint>
+        <!-- Minimum lux to enter HBM. Back to the stock 5882.
+             The earlier 1000000 workaround was based on a wrong diagnosis: the
+             "panel blanks above dbv 8191" symptom was caused by MTK silky
+             brightness being enabled by duchamp-inherited props, which routed
+             brightness through the gamma block and mangled the leds -> DDIC
+             mapping. With those props back at their degas-stock values the
+             mapping is 1:1 over the whole 0..16383 range and dbv 16383 lights
+             up cleanly, so the HBM range is reachable exactly as on stock. -->
+        <minimumLux>5882</minimumLux>
+        <!-- Time limitation for HBM-->
+        <timing>
+            <timeWindowSecs>0</timeWindowSecs>
+            <timeMaxSecs>0</timeMaxSecs>
+            <timeMinSecs>0</timeMinSecs>
+        </timing>
+        <!--Refresh rate limitation when the device is in HBM -->
+        <!-- <refreshRate>
+            <minimum>0</minimum>
+            <maximum>0</maximum>
+        </refreshRate> -->
+        <!-- Thermal limitation for HBM -->
+        <thermalStatusLimit>critical</thermalStatusLimit>
+        <!-- Low power mode limitation for HBM -->
+        <allowInLowPowerMode>true</allowInLowPowerMode>
+        <minimumHdrPercentOfScreen>0</minimumHdrPercentOfScreen>
+        <!-- HDR boost ratio, back to the stock 8.0 for the same reason as
+             minimumLux above: the HBM range it reaches into is valid now. -->
+        <sdrHdrRatioMap>
+            <point>
+                <sdrNits>2.0</sdrNits>
+                <hdrRatio>8.0</hdrRatio>
+            </point>
+            <point>
+                <sdrNits>1200.0</sdrNits>
+                <hdrRatio>8.0</hdrRatio>
+            </point>
+        </sdrHdrRatioMap>
+    </highBrightnessMode>
+    <ambientLightHorizonLong>1500</ambientLightHorizonLong>
+    <ambientLightHorizonShort>1000</ambientLightHorizonShort>
+</displayConfiguration>
+<!-- END Adapt_MIUIAdaptFrame -->

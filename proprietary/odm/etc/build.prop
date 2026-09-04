@@ -1,0 +1,55 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=Xiaomi
+ro.product.odm.device=degas
+ro.product.odm.manufacturer=Xiaomi
+ro.product.odm.model=2406APNFAG
+ro.product.odm.name=degas_global
+ro.odm.product.cpu.abilist=arm64-v8a
+ro.odm.product.cpu.abilist32=
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Mon Aug  3 20:14:24 UTC 2026
+ro.odm.build.date.utc=1785788064
+ro.odm.build.fingerprint=Xiaomi/degas_global/degas:16/BP2A.250605.031.A3/OS3.0.4.0.WNEMIXM:user/release-keys
+ro.odm.build.id=BP4A.251205.006
+ro.odm.build.tags=release-keys
+ro.odm.build.type=userdebug
+ro.odm.build.version.incremental=1785788064
+ro.odm.build.version.release=16
+ro.odm.build.version.release_or_codename=16
+ro.odm.build.version.sdk=36
+ro.odm.build.version.sdk_full=36.1
+####################################
+# from device/xiaomi/degas/odm.prop
+####################################
+# Charger
+persist.vendor.accelerate.charge=true
+# Display
+persist.vendor.dc_backlight.enable=false
+ro.vendor.cabc.enable=false
+ro.vendor.display.all_modes_support_WCG.enable=true
+ro.vendor.display.update_gray_by_temperature=true
+ro.vendor.displayfeature.dump=true
+ro.vendor.histogram.enable=1
+ro.vendor.localhbm.enable=true
+ro.vendor.mi_sf.hdr_enable_flatmode=true
+ro.vendor.mtk.pq.aidl=true
+ro.vendor.mtk.pq.odm=true
+ro.vendor.sre.enable=false
+sys.displayfeature_hidl=false
+vendor.displayfeature.entry.enable=true
+# Radio
+persist.vendor.radio.dynamic_sar=1
+# Sensors
+persist.vendor.sensor.powbrightness=400
+persist.vendor.sensor.mischeck=true
+persist.vendor.sensor.maxbrightness=8191
+persist.vendor.debug.collision.dfx=true
+# Thermal
+persist.vendor.tracking.dfs=true
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+# end of file
