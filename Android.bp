@@ -519,7 +519,7 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "android.hardware.bluetooth.audio",
-                "libbluetooth_audio_session_aidl_mtk",
+                "libbluetooth_audio_session_aidl_so",
                 "libaudioutils",
                 "libbase",
                 "libbinder_ndk",
