@@ -1434,7 +1434,6 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libneuron_runtime.7",
                 "libdmabufheap",
-                "libc++_shared",
                 "liblog",
                 "libz",
                 "libm",
@@ -1609,7 +1608,6 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "liblog",
                 "libm",
-                "libc++_shared",
                 "libdl",
                 "libc",
             ],
@@ -5501,7 +5499,6 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libneuron_runtime.7",
-                "libc++_shared",
                 "libm",
                 "liblog",
                 "libc",
@@ -5534,7 +5531,6 @@ cc_prebuilt_library_shared {
                 "libmialgo_utils-vendor",
                 "libOpenCL",
                 "libm",
-                "libc++_shared",
                 "libdl",
                 "libc",
             ],
@@ -5561,7 +5557,6 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "liblog",
-                "libc++_shared",
                 "libm",
                 "libdl",
                 "libc",
@@ -5590,7 +5585,6 @@ cc_prebuilt_library_shared {
                 "libOpenCL",
                 "libcdsprpc",
                 "libmialgo_ai_vision",
-                "libc++_shared",
                 "libm",
                 "liblog",
                 "libz",
@@ -5831,7 +5825,6 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libmialgo_utils-vendor",
                 "libOpenCL",
-                "libc++_shared",
                 "liblog",
                 "libc",
                 "libm",
@@ -5860,7 +5853,6 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libmialgo_utils-vendor",
                 "libOpenCL",
-                "libc++_shared",
                 "liblog",
                 "libc",
                 "libm",
@@ -8358,7 +8350,6 @@ cc_prebuilt_library_shared {
                 "libGLESv3",
                 "libEGL",
                 "liblog",
-                "libc++_shared",
                 "libm",
                 "libdl",
                 "libc",
@@ -8835,7 +8826,6 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libmialgo_utils-vendor",
                 "libOpenCL",
-                "libc++_shared",
                 "libm",
                 "liblog",
                 "libdl",
@@ -22150,7 +22140,6 @@ cc_prebuilt_library_shared {
                 "libcameraplatforminfoxiaomi",
                 "libmialgo_ai_vision",
                 "libcamera_scene",
-                "libc++_shared",
                 "libmialgo_sd",
                 "libarcsoft_hdr_detection",
                 "libarcsoft_super_night_detection",
@@ -25606,7 +25595,6 @@ cc_prebuilt_library_shared {
                 "proprietary/odm/lib64/libalCFR.so",
             ],
             shared_libs: [
-                "libc++_shared",
                 "liblog",
                 "libc",
                 "libm",
@@ -25634,7 +25622,6 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "libalNN_engine",
-                "libc++_shared",
                 "liblog",
                 "libz",
                 "libGLESv2",
@@ -26251,7 +26238,6 @@ cc_prebuilt_library_shared {
                 "libmialgo_utils",
                 "libOpenCL",
                 "libm",
-                "libc++_shared",
                 "libdl",
                 "libc",
             ],
@@ -26278,7 +26264,6 @@ cc_prebuilt_library_shared {
             shared_libs: [
                 "libOpenCL",
                 "libmialgo_ai_vision",
-                "libc++_shared",
                 "libm",
                 "liblog",
                 "libz",
@@ -26311,7 +26296,6 @@ cc_prebuilt_library_shared {
                 "libmialgo_utils",
                 "libOpenCL",
                 "libneuron_runtime.7",
-                "libc++_shared",
                 "libm",
                 "liblog",
                 "libc",
@@ -26339,7 +26323,6 @@ cc_prebuilt_library_shared {
             ],
             shared_libs: [
                 "liblog",
-                "libc++_shared",
                 "libm",
                 "libdl",
                 "libc",
