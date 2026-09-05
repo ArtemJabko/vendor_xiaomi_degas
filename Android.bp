@@ -17472,6 +17472,33 @@ cc_prebuilt_library_shared {
 
 cc_prebuilt_library_shared {
 
+    name: "librfs_warp",
+    owner: "xiaomi",
+    strip: {
+        none: true,
+    },
+    target: {
+        android_arm64: {
+            srcs: [
+                "proprietary/odm/lib64/librfs_warp.so",
+            ],
+            shared_libs: [
+                "libbase",
+                "liblog",
+                "libc++",
+                "libc",
+                "libm",
+                "libdl",
+            ],
+        },
+    },
+    compile_multilib: "64",
+    prefer: true,
+    device_specific: true,
+}
+
+cc_prebuilt_library_shared {
+
     name: "libmtkcam.featurepipe.capture",
     owner: "xiaomi",
     strip: {
