@@ -28448,7 +28448,6 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_library_shared {
-cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_arcrawhdr_so",
     owner: "xiaomi",
     strip: {
@@ -28473,9 +28472,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_asdasync_so",
     owner: "xiaomi",
@@ -28501,9 +28498,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_asdmeta_so",
     owner: "xiaomi",
@@ -28529,9 +28524,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_beautydeformation_so",
     owner: "xiaomi",
@@ -28557,9 +28550,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_capspot_so",
     owner: "xiaomi",
@@ -28585,9 +28576,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_facealignpreview_so",
     owner: "xiaomi",
@@ -28613,9 +28602,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_facebeautypreview_so",
     owner: "xiaomi",
@@ -28641,9 +28628,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_filter_so",
     owner: "xiaomi",
@@ -28669,9 +28654,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_gainmap_so",
     owner: "xiaomi",
@@ -28697,9 +28680,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_gainmapPostProc_so",
     owner: "xiaomi",
@@ -28725,9 +28706,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_heifedit_so",
     owner: "xiaomi",
@@ -28753,9 +28732,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_hwhalproc_so",
     owner: "xiaomi",
@@ -28781,9 +28758,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_hwstream_so",
     owner: "xiaomi",
@@ -28809,9 +28784,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_idle_so",
     owner: "xiaomi",
@@ -28837,9 +28810,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_jiganvideobokeh_so",
     owner: "xiaomi",
@@ -28865,9 +28836,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_jiiganfrontbokeh_so",
     owner: "xiaomi",
@@ -28893,9 +28862,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_jiiganfrontbokehstream_so",
     owner: "xiaomi",
@@ -28921,9 +28888,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_jpegrAggr_so",
     owner: "xiaomi",
@@ -28949,9 +28914,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_ldcpreview_so",
     owner: "xiaomi",
@@ -28977,9 +28940,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mialgoainr_so",
     owner: "xiaomi",
@@ -29005,9 +28966,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mideflicker_so",
     owner: "xiaomi",
@@ -29033,9 +28992,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_midualbokehstream_so",
     owner: "xiaomi",
@@ -29061,9 +29018,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_miellc_so",
     owner: "xiaomi",
@@ -29089,9 +29044,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mifrontaibokehstream_so",
     owner: "xiaomi",
@@ -29117,9 +29070,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mihisv1_so",
     owner: "xiaomi",
@@ -29145,9 +29096,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mihisv2_so",
     owner: "xiaomi",
@@ -29173,9 +29122,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mihisv3_so",
     owner: "xiaomi",
@@ -29201,9 +29148,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mimotionvideo_so",
     owner: "xiaomi",
@@ -29229,9 +29174,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_misat_so",
     owner: "xiaomi",
@@ -29257,9 +29200,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_mivideonight_so",
     owner: "xiaomi",
@@ -29285,9 +29226,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_movieeffect_so",
     owner: "xiaomi",
@@ -29313,9 +29252,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_portraitrepair_so",
     owner: "xiaomi",
@@ -29341,9 +29278,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_rawhdranchor_so",
     owner: "xiaomi",
@@ -29369,9 +29304,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_rawsuperlight_turbofusion_so",
     owner: "xiaomi",
@@ -29397,9 +29330,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_rawsuperlight_turbofusion_front_so",
     owner: "xiaomi",
@@ -29425,9 +29356,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_remosaic_so",
     owner: "xiaomi",
@@ -29453,9 +29382,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_sranchor_so",
     owner: "xiaomi",
@@ -29481,9 +29408,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_swjpegencode_so",
     owner: "xiaomi",
@@ -29509,9 +29434,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_videofilter_so",
     owner: "xiaomi",
@@ -29537,9 +29460,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "com_xiaomi_plugin_watermark_so",
     owner: "xiaomi",
@@ -29565,9 +29486,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libAncHumanVideoBokehV4_so",
     owner: "xiaomi",
@@ -29593,9 +29512,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libMiVideoFilter_so",
     owner: "xiaomi",
@@ -29621,9 +29538,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libadaptivehdr_so",
     owner: "xiaomi",
@@ -29649,9 +29564,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libanc_dc_base_so",
     owner: "xiaomi",
@@ -29677,9 +29590,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libanc_single_bokeh_so",
     owner: "xiaomi",
@@ -29705,9 +29616,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libanc_single_rt_bokeh_so",
     owner: "xiaomi",
@@ -29733,9 +29642,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarc_ion_so",
     owner: "xiaomi",
@@ -29761,9 +29668,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_hdr_detection_so",
     owner: "xiaomi",
@@ -29789,9 +29694,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_hdr_raw_so",
     owner: "xiaomi",
@@ -29817,9 +29720,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_hdr_raw_grf_so",
     owner: "xiaomi",
@@ -29845,9 +29746,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_portrait_hdr_raw_so",
     owner: "xiaomi",
@@ -29873,9 +29772,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_raw_sr_so",
     owner: "xiaomi",
@@ -29901,9 +29798,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_super_night_detection_so",
     owner: "xiaomi",
@@ -29929,9 +29824,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_turbo_fusion_raw_portrait_super_night_so",
     owner: "xiaomi",
@@ -29957,9 +29850,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_turbo_fusion_raw_super_night_so",
     owner: "xiaomi",
@@ -29985,9 +29876,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_turbo_hdr_detection_so",
     owner: "xiaomi",
@@ -30013,9 +29902,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarcsoft_turbo_sr_detection_so",
     owner: "xiaomi",
@@ -30041,9 +29928,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libc__shared_so",
     owner: "xiaomi",
@@ -30069,9 +29954,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcamera_scene_so",
     owner: "xiaomi",
@@ -30097,9 +29980,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcameraheif_so",
     owner: "xiaomi",
@@ -30125,9 +30006,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libdlrmsc_so",
     owner: "xiaomi",
@@ -30153,9 +30032,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libellv_so",
     owner: "xiaomi",
@@ -30181,9 +30058,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiSAT_so",
     owner: "xiaomi",
@@ -30209,9 +30084,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmi_aialign_raw_so",
     owner: "xiaomi",
@@ -30237,9 +30110,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiaio_aio_seg_so",
     owner: "xiaomi",
@@ -30265,9 +30136,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmialgo_ainr_v1_so",
     owner: "xiaomi",
@@ -30293,9 +30162,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmialgo_ds_nn_so",
     owner: "xiaomi",
@@ -30321,9 +30188,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmialgo_ellc_so",
     owner: "xiaomi",
@@ -30349,9 +30214,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmialgo_sd_so",
     owner: "xiaomi",
@@ -30377,9 +30240,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libminikin_xiaomi_so",
     owner: "xiaomi",
@@ -30405,9 +30266,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiphone_capture_mdbokeh_so",
     owner: "xiaomi",
@@ -30433,9 +30292,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiphone_preview_bokeh_so",
     owner: "xiaomi",
@@ -30461,9 +30318,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiphone_preview_depth_so",
     owner: "xiaomi",
@@ -30489,9 +30344,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiphone_preview_mdbokeh_so",
     owner: "xiaomi",
@@ -30517,9 +30370,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiphone_tsspot_so",
     owner: "xiaomi",
@@ -30545,9 +30396,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiremosaic_so",
     owner: "xiaomi",
@@ -30573,9 +30422,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmorpho_Depurple_so",
     owner: "xiaomi",
@@ -30601,9 +30448,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmpbase_so",
     owner: "xiaomi",
@@ -30629,9 +30474,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libportrait_repair_apu_so",
     owner: "xiaomi",
@@ -30657,9 +30500,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libremosaic_wrapper_so",
     owner: "xiaomi",
@@ -30685,9 +30526,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libremosaiclib_so",
     owner: "xiaomi",
@@ -30713,9 +30552,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "librfs_warp_so",
     owner: "xiaomi",
@@ -30741,9 +30578,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtensorflowlite_touch_c_so",
     owner: "xiaomi",
@@ -30769,9 +30604,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtouchreport_so",
     owner: "xiaomi",
@@ -30797,9 +30630,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtouchsensor_so",
     owner: "xiaomi",
@@ -30825,9 +30656,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libwa_widelens_undistort_so",
     owner: "xiaomi",
@@ -30853,9 +30682,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcom_xiaomi_hwadapter_decoupleutil_so",
     owner: "xiaomi",
@@ -30881,9 +30708,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcom_xiaomi_hwadapter_postprocinterface_so",
     owner: "xiaomi",
@@ -30909,9 +30734,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapu_mdw_ext_mtk_so",
     owner: "xiaomi",
@@ -30937,9 +30760,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapuwareapusys_mtk_so",
     owner: "xiaomi",
@@ -30965,9 +30786,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapuwareapusys_v2_mtk_so",
     owner: "xiaomi",
@@ -30993,9 +30812,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapuwarehmp_mtk_so",
     owner: "xiaomi",
@@ -31021,9 +30838,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapuwareutils_mtk_so",
     owner: "xiaomi",
@@ -31049,9 +30864,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapuwareutils_v2_mtk_so",
     owner: "xiaomi",
@@ -31077,9 +30890,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapuwarexrp_mtk_so",
     owner: "xiaomi",
@@ -31105,9 +30916,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libapuwarexrp_v2_mtk_so",
     owner: "xiaomi",
@@ -31133,9 +30942,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libarmnn_ndk_mtk_so",
     owner: "xiaomi",
@@ -31161,9 +30968,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcmdl_ndk_mtk_so",
     owner: "xiaomi",
@@ -31189,9 +30994,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcomutils_so",
     owner: "xiaomi",
@@ -31217,9 +31020,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libem_support_jni_so",
     owner: "xiaomi",
@@ -31245,9 +31046,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libimsma_so",
     owner: "xiaomi",
@@ -31273,9 +31072,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libimsma_adapt_so",
     owner: "xiaomi",
@@ -31301,9 +31098,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libimsma_rtp_so",
     owner: "xiaomi",
@@ -31329,9 +31124,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libimsma_socketwrapper_so",
     owner: "xiaomi",
@@ -31357,9 +31150,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtk_vt_service_so",
     owner: "xiaomi",
@@ -31385,9 +31176,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtk_vt_wrapper_so",
     owner: "xiaomi",
@@ -31413,9 +31202,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_cic_ci_compiler_mtk_so",
     owner: "xiaomi",
@@ -31441,9 +31228,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_cic_ci_compiler_25_mtk_so",
     owner: "xiaomi",
@@ -31469,9 +31254,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_clc_14_mvpu_debuginfo_25_mtk_so",
     owner: "xiaomi",
@@ -31497,9 +31280,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_clc_14_mvpu_elf_25_mtk_so",
     owner: "xiaomi",
@@ -31525,9 +31306,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_clc_14_mvpu_utility_25_mtk_so",
     owner: "xiaomi",
@@ -31553,9 +31332,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_clc_mvpu_debuginfo_mtk_so",
     owner: "xiaomi",
@@ -31581,9 +31358,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_clc_mvpu_elf_mtk_so",
     owner: "xiaomi",
@@ -31609,9 +31384,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_clc_mvpu_utility_mtk_so",
     owner: "xiaomi",
@@ -31637,9 +31410,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_config_mtk_so",
     owner: "xiaomi",
@@ -31665,9 +31436,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_engine_mtk_so",
     owner: "xiaomi",
@@ -31693,9 +31462,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_engine_25_mtk_so",
     owner: "xiaomi",
@@ -31721,9 +31488,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_engine_25_pub_mtk_so",
     owner: "xiaomi",
@@ -31749,9 +31514,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_engine_pub_mtk_so",
     owner: "xiaomi",
@@ -31777,9 +31540,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_pattern_mtk_so",
     owner: "xiaomi",
@@ -31805,9 +31566,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_pattern_25_mtk_so",
     owner: "xiaomi",
@@ -31833,9 +31592,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_pattern_25_pub_mtk_so",
     owner: "xiaomi",
@@ -31861,9 +31618,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_pattern_pub_mtk_so",
     owner: "xiaomi",
@@ -31889,9 +31644,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_runtime_mtk_so",
     owner: "xiaomi",
@@ -31917,9 +31670,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_runtime_25_mtk_so",
     owner: "xiaomi",
@@ -31945,9 +31696,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_runtime_25_pub_mtk_so",
     owner: "xiaomi",
@@ -31973,9 +31722,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_runtime_builtin_mtk_so",
     owner: "xiaomi",
@@ -32001,9 +31748,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_runtime_builtin_25_mtk_so",
     owner: "xiaomi",
@@ -32029,9 +31774,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpu_runtime_pub_mtk_so",
     owner: "xiaomi",
@@ -32057,9 +31800,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpuop25_mtk_cv_mtk_so",
     owner: "xiaomi",
@@ -32085,9 +31826,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpuop25_mtk_nn_mtk_so",
     owner: "xiaomi",
@@ -32113,9 +31852,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpuop_mtk_cv_mtk_so",
     owner: "xiaomi",
@@ -32141,9 +31878,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmvpuop_mtk_nn_mtk_so",
     owner: "xiaomi",
@@ -32169,9 +31904,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libneuron_graph_delegate_mtk_so",
     owner: "xiaomi",
@@ -32197,9 +31930,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libneuronusdk_adapter_mtk_so",
     owner: "xiaomi",
@@ -32225,9 +31956,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libnir_neon_driver_ndk_mtk_so",
     owner: "xiaomi",
@@ -32253,9 +31982,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libsignal_so",
     owner: "xiaomi",
@@ -32281,9 +32008,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libsink_mtk_so",
     owner: "xiaomi",
@@ -32309,9 +32034,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libsource_so",
     owner: "xiaomi",
@@ -32337,9 +32060,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtflite_mtk_mtk_so",
     owner: "xiaomi",
@@ -32365,9 +32086,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtflite_mtk_so",
     owner: "xiaomi",
@@ -32393,9 +32112,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libvcodec_cap_so",
     owner: "xiaomi",
@@ -32421,9 +32138,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libvcodec_capenc_so",
     owner: "xiaomi",
@@ -32449,9 +32164,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libvt_avsync_so",
     owner: "xiaomi",
@@ -32477,9 +32190,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_apusys_V5_ndk_so",
     owner: "xiaomi",
@@ -32505,9 +32216,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_apusys_1_0_so",
     owner: "xiaomi",
@@ -32533,9 +32242,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_apusys_2_0_so",
     owner: "xiaomi",
@@ -32561,9 +32268,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_apusys_2_1_so",
     owner: "xiaomi",
@@ -32589,9 +32294,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_hmp_1_0_so",
     owner: "xiaomi",
@@ -32617,9 +32320,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_utils_V1_ndk_so",
     owner: "xiaomi",
@@ -32645,9 +32346,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_utils_1_0_so",
     owner: "xiaomi",
@@ -32673,9 +32372,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_utils_2_0_so",
     owner: "xiaomi",
@@ -32701,9 +32398,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_xrp_V1_ndk_so",
     owner: "xiaomi",
@@ -32729,9 +32424,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_xrp_1_0_so",
     owner: "xiaomi",
@@ -32757,9 +32450,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_xrp_2_0_so",
     owner: "xiaomi",
@@ -32785,9 +32476,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_videotelephony_V1_ndk_so",
     owner: "xiaomi",
@@ -32813,9 +32502,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_videotelephony_1_0_so",
     owner: "xiaomi",
@@ -32841,9 +32528,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libTrueSight_so",
     owner: "xiaomi",
@@ -32869,9 +32554,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libwa_widelens_undistort_so1",
     owner: "xiaomi",
@@ -32897,9 +32580,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_frameworks_displayservice_1_0_so",
     owner: "xiaomi",
@@ -32925,9 +32606,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_frameworks_sensorservice_V1_ndk_so",
     owner: "xiaomi",
@@ -32953,9 +32632,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_frameworks_sensorservice_1_0_so",
     owner: "xiaomi",
@@ -32981,9 +32658,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_V2_ndk_so",
     owner: "xiaomi",
@@ -33009,9 +32684,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_util_so",
     owner: "xiaomi",
@@ -33037,9 +32710,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_5_0_so",
     owner: "xiaomi",
@@ -33065,9 +32736,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_7_0_enums_so",
     owner: "xiaomi",
@@ -33093,9 +32762,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_7_0_util_so",
     owner: "xiaomi",
@@ -33121,9 +32788,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_7_0_so",
     owner: "xiaomi",
@@ -33149,9 +32814,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_7_1_enums_so",
     owner: "xiaomi",
@@ -33177,9 +32840,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_common_7_1_util_so",
     owner: "xiaomi",
@@ -33205,9 +32866,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_effect_7_0_util_so",
     owner: "xiaomi",
@@ -33233,9 +32892,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_effect_7_0_so",
     owner: "xiaomi",
@@ -33261,9 +32918,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_7_0_so",
     owner: "xiaomi",
@@ -33289,9 +32944,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_7_1_util_so",
     owner: "xiaomi",
@@ -33317,9 +32970,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_7_1_so",
     owner: "xiaomi",
@@ -33345,9 +32996,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_biometrics_common_V3_ndk_so",
     owner: "xiaomi",
@@ -33373,9 +33022,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_biometrics_common_thread_so",
     owner: "xiaomi",
@@ -33401,9 +33048,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_biometrics_common_util_so",
     owner: "xiaomi",
@@ -33429,9 +33074,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_biometrics_face_V3_ndk_so",
     owner: "xiaomi",
@@ -33457,9 +33100,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_bluetooth_V1_ndk_so",
     owner: "xiaomi",
@@ -33485,9 +33126,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_bluetooth_audio_V3_ndk_so",
     owner: "xiaomi",
@@ -33513,9 +33152,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_bluetooth_audio_2_0_so",
     owner: "xiaomi",
@@ -33541,9 +33178,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_bluetooth_audio_2_1_so",
     owner: "xiaomi",
@@ -33569,9 +33204,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_common_V1_ndk_so",
     owner: "xiaomi",
@@ -33597,9 +33230,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_common_1_0_so",
     owner: "xiaomi",
@@ -33625,9 +33256,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_device_V2_ndk_so",
     owner: "xiaomi",
@@ -33653,9 +33282,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_device_1_0_so",
     owner: "xiaomi",
@@ -33681,9 +33308,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_device_3_2_so",
     owner: "xiaomi",
@@ -33709,9 +33334,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_device_3_3_so",
     owner: "xiaomi",
@@ -33737,9 +33360,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_device_3_4_so",
     owner: "xiaomi",
@@ -33765,9 +33386,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_metadata_V2_ndk_so",
     owner: "xiaomi",
@@ -33793,9 +33412,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_provider_V2_ndk_so",
     owner: "xiaomi",
@@ -33821,9 +33438,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_provider_2_4_so",
     owner: "xiaomi",
@@ -33849,9 +33464,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_provider_2_5_so",
     owner: "xiaomi",
@@ -33877,9 +33490,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_camera_provider_2_6_so",
     owner: "xiaomi",
@@ -33905,9 +33516,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_gatekeeper_V1_ndk_so",
     owner: "xiaomi",
@@ -33933,9 +33542,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_gnss_V3_ndk_so",
     owner: "xiaomi",
@@ -33961,9 +33568,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_graphics_composer3_V2_ndk_so",
     owner: "xiaomi",
@@ -33989,9 +33594,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_health_1_0_so",
     owner: "xiaomi",
@@ -34017,9 +33620,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_ir_V1_ndk_so",
     owner: "xiaomi",
@@ -34045,9 +33646,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_keymaster_V4_ndk_so",
     owner: "xiaomi",
@@ -34073,9 +33672,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_keymaster_3_0_so",
     owner: "xiaomi",
@@ -34101,9 +33698,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_keymaster_4_0_so",
     owner: "xiaomi",
@@ -34129,9 +33724,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_media_c2_1_0_so",
     owner: "xiaomi",
@@ -34157,9 +33750,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_media_c2_1_1_so",
     owner: "xiaomi",
@@ -34185,9 +33776,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_media_c2_1_2_so",
     owner: "xiaomi",
@@ -34213,9 +33802,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_nfc_V1_ndk_so",
     owner: "xiaomi",
@@ -34241,9 +33828,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_power_V4_ndk_so",
     owner: "xiaomi",
@@ -34269,9 +33854,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_power_1_0_so",
     owner: "xiaomi",
@@ -34297,9 +33880,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_power_1_1_so",
     owner: "xiaomi",
@@ -34325,9 +33906,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_power_1_2_so",
     owner: "xiaomi",
@@ -34353,9 +33932,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_V2_ndk_so",
     owner: "xiaomi",
@@ -34381,9 +33958,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_config_V2_ndk_so",
     owner: "xiaomi",
@@ -34409,9 +33984,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_data_V2_ndk_so",
     owner: "xiaomi",
@@ -34437,9 +34010,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_ims_V1_ndk_so",
     owner: "xiaomi",
@@ -34465,9 +34036,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_messaging_V2_ndk_so",
     owner: "xiaomi",
@@ -34493,9 +34062,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_modem_V2_ndk_so",
     owner: "xiaomi",
@@ -34521,9 +34088,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_network_V2_ndk_so",
     owner: "xiaomi",
@@ -34549,9 +34114,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_sap_V1_ndk_so",
     owner: "xiaomi",
@@ -34577,9 +34140,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_sim_V2_ndk_so",
     owner: "xiaomi",
@@ -34605,9 +34166,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_voice_V2_ndk_so",
     owner: "xiaomi",
@@ -34633,9 +34192,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_1_0_so",
     owner: "xiaomi",
@@ -34661,9 +34218,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_radio_1_1_so",
     owner: "xiaomi",
@@ -34689,9 +34244,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_secure_element_V1_ndk_so",
     owner: "xiaomi",
@@ -34717,9 +34270,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_secure_element_1_0_so",
     owner: "xiaomi",
@@ -34745,9 +34296,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_secure_element_1_1_so",
     owner: "xiaomi",
@@ -34773,9 +34322,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_secure_element_1_2_so",
     owner: "xiaomi",
@@ -34801,9 +34348,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_security_keymint_V1_ndk_so",
     owner: "xiaomi",
@@ -34829,9 +34374,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_security_rkp_V3_ndk_so",
     owner: "xiaomi",
@@ -34857,9 +34400,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_security_secureclock_V1_ndk_so",
     owner: "xiaomi",
@@ -34885,9 +34426,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_security_sharedsecret_V1_ndk_so",
     owner: "xiaomi",
@@ -34913,9 +34452,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_sensors_1_0_so",
     owner: "xiaomi",
@@ -34941,9 +34478,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_sensors_2_0_ScopedWakelock_so",
     owner: "xiaomi",
@@ -34969,9 +34504,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_sensors_2_0_so",
     owner: "xiaomi",
@@ -34997,9 +34530,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_sensors_2_1_so",
     owner: "xiaomi",
@@ -35025,9 +34556,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_tetheroffload_V1_ndk_so",
     owner: "xiaomi",
@@ -35053,9 +34582,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_thermal_V1_ndk_so",
     owner: "xiaomi",
@@ -35081,9 +34608,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_usb_gadget_V1_ndk_so",
     owner: "xiaomi",
@@ -35109,9 +34634,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hidl_allocator_1_0_so",
     owner: "xiaomi",
@@ -35137,9 +34660,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_media_audio_common_types_V2_ndk_so",
     owner: "xiaomi",
@@ -35165,9 +34686,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_system_keystore2_V1_ndk_so",
     owner: "xiaomi",
@@ -35193,9 +34712,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "audioclient_types_aidl_cpp_so",
     owner: "xiaomi",
@@ -35221,9 +34738,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "av_types_aidl_cpp_so",
     owner: "xiaomi",
@@ -35249,9 +34764,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libzslselectorpool_so",
     owner: "xiaomi",
@@ -35277,9 +34790,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "framework_permission_aidl_cpp_so",
     owner: "xiaomi",
@@ -35305,9 +34816,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "android_hardware_audio_effect_7_0_impl_so",
     owner: "xiaomi",
@@ -35333,9 +34842,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "audio_primary_default_so",
     owner: "xiaomi",
@@ -35361,9 +34868,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "audio_r_submix_default_so",
     owner: "xiaomi",
@@ -35389,9 +34894,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "audio_usb_default_so",
     owner: "xiaomi",
@@ -35417,9 +34920,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "audio_policy_stub_so",
     owner: "xiaomi",
@@ -35445,9 +34946,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "gralloc_default_so",
     owner: "xiaomi",
@@ -35473,9 +34972,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "local_time_default_so",
     owner: "xiaomi",
@@ -35501,9 +34998,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "power_default_so",
     owner: "xiaomi",
@@ -35529,9 +35024,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "sensors_dynamic_sensor_hal_so",
     owner: "xiaomi",
@@ -35557,9 +35050,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vibrator_default_so",
     owner: "xiaomi",
@@ -35585,9 +35076,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libADCSwitch_so",
     owner: "xiaomi",
@@ -35613,9 +35102,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libANS_so",
     owner: "xiaomi",
@@ -35641,9 +35128,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libHardwareBacklightcore_so",
     owner: "xiaomi",
@@ -35669,9 +35154,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libIntelligentFocus_so",
     owner: "xiaomi",
@@ -35697,9 +35180,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libMiPhotoFilter_so",
     owner: "xiaomi",
@@ -35725,9 +35206,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libSEGModel_so",
     owner: "xiaomi",
@@ -35753,9 +35232,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "lib_android_keymaster_keymint_utils_so",
     owner: "xiaomi",
@@ -35781,9 +35258,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libadpcmdec_mtk_so",
     owner: "xiaomi",
@@ -35809,9 +35284,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libalsautils_so",
     owner: "xiaomi",
@@ -35837,9 +35310,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libaudio_aidl_conversion_common_ndk_so",
     owner: "xiaomi",
@@ -35865,9 +35336,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libaudioclient_aidl_conversion_so",
     owner: "xiaomi",
@@ -35893,9 +35362,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libaudiofoundation_so",
     owner: "xiaomi",
@@ -35921,9 +35388,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libavservices_minijail_so",
     owner: "xiaomi",
@@ -35949,9 +35414,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libbinderdebug_so",
     owner: "xiaomi",
@@ -35977,9 +35440,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libbluetooth_audio_session_so",
     owner: "xiaomi",
@@ -36005,9 +35466,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libbluetooth_audio_session_aidl_so",
     owner: "xiaomi",
@@ -36033,9 +35492,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcamera2ndk_vendor_so",
     owner: "xiaomi",
@@ -36061,9 +35518,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcameraopt_so",
     owner: "xiaomi",
@@ -36089,9 +35544,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_hidl_1_0_so",
     owner: "xiaomi",
@@ -36117,9 +35570,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_hidl_1_1_so",
     owner: "xiaomi",
@@ -36145,9 +35596,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_hidl_1_2_so",
     owner: "xiaomi",
@@ -36173,9 +35622,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_hidl_plugin_so",
     owner: "xiaomi",
@@ -36201,9 +35648,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_soft_common_so",
     owner: "xiaomi",
@@ -36229,9 +35674,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_soft_mtk_alacdec_so",
     owner: "xiaomi",
@@ -36257,9 +35700,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_soft_mtk_imaadpcmdec_so",
     owner: "xiaomi",
@@ -36285,9 +35726,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_soft_mtk_mp3dec_so",
     owner: "xiaomi",
@@ -36313,9 +35752,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_soft_mtk_msadpcmdec_so",
     owner: "xiaomi",
@@ -36341,9 +35778,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_vndk_so",
     owner: "xiaomi",
@@ -36369,9 +35804,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcodec2_vpp_frc_plugin_so",
     owner: "xiaomi",
@@ -36397,9 +35830,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcom_xiaomi_attribute_so",
     owner: "xiaomi",
@@ -36425,9 +35856,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcom_xiaomi_ecoenginemonitor_so",
     owner: "xiaomi",
@@ -36453,9 +35882,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcom_xiaomi_mivihal_cpupolicy_so",
     owner: "xiaomi",
@@ -36481,9 +35908,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcom_xiaomi_sensorpolicy_so",
     owner: "xiaomi",
@@ -36509,9 +35934,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcom_xiaomi_signaltrigger_so",
     owner: "xiaomi",
@@ -36537,9 +35960,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcppbor_external_so",
     owner: "xiaomi",
@@ -36565,9 +35986,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libcppcose_rkp_so",
     owner: "xiaomi",
@@ -36593,9 +36012,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libdrm_so",
     owner: "xiaomi",
@@ -36621,9 +36038,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libecoengine_so",
     owner: "xiaomi",
@@ -36649,9 +36064,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libeffects_so",
     owner: "xiaomi",
@@ -36677,9 +36090,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libeffectsconfig_so",
     owner: "xiaomi",
@@ -36705,9 +36116,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libflatbuffers_cpp_so",
     owner: "xiaomi",
@@ -36733,9 +36142,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libhidltransport_so",
     owner: "xiaomi",
@@ -36761,9 +36168,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libhidparser_so",
     owner: "xiaomi",
@@ -36789,9 +36194,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libhwbinder_so",
     owner: "xiaomi",
@@ -36817,9 +36220,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libimage_io_so",
     owner: "xiaomi",
@@ -36845,9 +36246,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libkeymaster4support_so",
     owner: "xiaomi",
@@ -36873,9 +36272,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libkeymaster_messages_so",
     owner: "xiaomi",
@@ -36901,9 +36298,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libkeymaster_portable_so",
     owner: "xiaomi",
@@ -36929,9 +36324,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libkeymint_so",
     owner: "xiaomi",
@@ -36957,9 +36350,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libkeymint_remote_prov_support_so",
     owner: "xiaomi",
@@ -36985,9 +36376,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libkeymint_support_so",
     owner: "xiaomi",
@@ -37013,9 +36402,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libkeystore_engine_wifi_hidl_so",
     owner: "xiaomi",
@@ -37041,9 +36428,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmcve_so",
     owner: "xiaomi",
@@ -37069,9 +36454,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmediautils_vendor_so",
     owner: "xiaomi",
@@ -37097,9 +36480,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmemunreachable_so",
     owner: "xiaomi",
@@ -37125,9 +36506,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmialgo_so",
     owner: "xiaomi",
@@ -37153,9 +36532,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmialgoengine_custom_so",
     owner: "xiaomi",
@@ -37181,9 +36558,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmicamera_aidl_device_so",
     owner: "xiaomi",
@@ -37209,9 +36584,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmicamera_aidl_provider_so",
     owner: "xiaomi",
@@ -37237,9 +36610,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmicamera_aidl_utils_so",
     owner: "xiaomi",
@@ -37265,9 +36636,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmicamera_hal_core_so",
     owner: "xiaomi",
@@ -37293,9 +36662,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmiface_so",
     owner: "xiaomi",
@@ -37321,9 +36688,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmisight_so",
     owner: "xiaomi",
@@ -37349,9 +36714,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmisoundparser_so",
     owner: "xiaomi",
@@ -37377,9 +36740,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmp3dec_mtk_so",
     owner: "xiaomi",
@@ -37405,9 +36766,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtkcam_hal_custom_state_so",
     owner: "xiaomi",
@@ -37433,9 +36792,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtkcam_hal_custom_utils_so",
     owner: "xiaomi",
@@ -37461,9 +36818,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtkperf_client_vendor_so",
     owner: "xiaomi",
@@ -37489,9 +36844,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libnbaio_mono_so",
     owner: "xiaomi",
@@ -37517,9 +36870,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libnir_neon_driver_ndk_mtk_vndk_so",
     owner: "xiaomi",
@@ -37545,9 +36896,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libofflinedebugdata_so",
     owner: "xiaomi",
@@ -37573,9 +36922,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libopencv_core_so",
     owner: "xiaomi",
@@ -37601,9 +36948,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libopencv_imgproc_so",
     owner: "xiaomi",
@@ -37629,9 +36974,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libperfctl_vendor_so",
     owner: "xiaomi",
@@ -37657,9 +37000,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libpowerhalwrap_vendor_so",
     owner: "xiaomi",
@@ -37685,9 +37026,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libpuresoftkeymasterdevice_so",
     owner: "xiaomi",
@@ -37713,9 +37052,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libreference_ril_so",
     owner: "xiaomi",
@@ -37741,9 +37078,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "librendercore_so",
     owner: "xiaomi",
@@ -37769,9 +37104,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libril_so",
     owner: "xiaomi",
@@ -37797,9 +37130,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "librilutils_so",
     owner: "xiaomi",
@@ -37825,9 +37156,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libruy_so",
     owner: "xiaomi",
@@ -37853,9 +37182,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libsensorndkbridge_so",
     owner: "xiaomi",
@@ -37881,9 +37208,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libsfplugin_ccodec_utils_so",
     owner: "xiaomi",
@@ -37909,9 +37234,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libshmemcompat_so",
     owner: "xiaomi",
@@ -37937,9 +37260,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libshmemutil_so",
     owner: "xiaomi",
@@ -37965,9 +37286,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libsn220u_fw_so",
     owner: "xiaomi",
@@ -37993,9 +37312,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libsoft_attestation_cert_so",
     owner: "xiaomi",
@@ -38021,9 +37338,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libstagefright_aidl_bufferpool2_so",
     owner: "xiaomi",
@@ -38049,9 +37364,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libstagefright_bufferpool_2_0_1_so",
     owner: "xiaomi",
@@ -38077,9 +37390,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtextclassifier_hash_so",
     owner: "xiaomi",
@@ -38105,9 +37416,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtflite_so",
     owner: "xiaomi",
@@ -38133,9 +37442,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtflite_mtk_so1",
     owner: "xiaomi",
@@ -38161,9 +37468,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtinycompress_so",
     owner: "xiaomi",
@@ -38189,9 +37494,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libtrusty_so",
     owner: "xiaomi",
@@ -38217,9 +37520,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libvibratorutils_so",
     owner: "xiaomi",
@@ -38245,9 +37546,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libwifi_hal_so",
     owner: "xiaomi",
@@ -38273,9 +37572,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libclearkeycasplugin_so",
     owner: "xiaomi",
@@ -38301,9 +37598,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libdrmclearkeyplugin_so",
     owner: "xiaomi",
@@ -38329,9 +37624,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degasimx906wide_mipi_raw_IdxMgr_so",
     owner: "xiaomi",
@@ -38357,9 +37650,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degasimx906wide_mipi_raw_tuning_so",
     owner: "xiaomi",
@@ -38385,9 +37676,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degasov13b10ultra_mipi_raw_IdxMgr_so",
     owner: "xiaomi",
@@ -38413,9 +37702,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degasov13b10ultra_mipi_raw_tuning_so",
     owner: "xiaomi",
@@ -38441,9 +37728,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degass5kjn1tele_mipi_raw_IdxMgr_so",
     owner: "xiaomi",
@@ -38469,9 +37754,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degass5kjn1tele_mipi_raw_tuning_so",
     owner: "xiaomi",
@@ -38497,9 +37780,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degass5kkd1front_mipi_raw_IdxMgr_so",
     owner: "xiaomi",
@@ -38525,9 +37806,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "degass5kkd1front_mipi_raw_tuning_so",
     owner: "xiaomi",
@@ -38553,9 +37832,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtkcam_feature_utils_so",
     owner: "xiaomi",
@@ -38581,9 +37858,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtkcam_resourcedecision_custom_so",
     owner: "xiaomi",
@@ -38609,9 +37884,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libmtkltm_so",
     owner: "xiaomi",
@@ -38637,9 +37910,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "mtk_lbs_service_impl_so",
     owner: "xiaomi",
@@ -38665,9 +37936,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "sensors_touch_detect_so",
     owner: "xiaomi",
@@ -38693,9 +37962,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "shared_file_region_aidl_cpp_so",
     owner: "xiaomi",
@@ -38721,9 +37988,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libaudiopreprocessing_so",
     owner: "xiaomi",
@@ -38749,9 +38014,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libbundlewrapper_so",
     owner: "xiaomi",
@@ -38777,9 +38040,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libdownmix_so",
     owner: "xiaomi",
@@ -38805,9 +38066,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libdynproc_so",
     owner: "xiaomi",
@@ -38833,9 +38092,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libeffectproxy_so",
     owner: "xiaomi",
@@ -38861,9 +38118,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libhapticgenerator_so",
     owner: "xiaomi",
@@ -38889,9 +38144,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libldnhncr_so",
     owner: "xiaomi",
@@ -38917,9 +38170,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libreverbwrapper_so",
     owner: "xiaomi",
@@ -38945,9 +38196,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "libvisualizer_so",
     owner: "xiaomi",
@@ -38973,9 +38222,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_apuware_apusys_V3_ndk_so",
     owner: "xiaomi",
@@ -39001,9 +38248,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_audio_V1_ndk_so",
     owner: "xiaomi",
@@ -39029,9 +38274,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_camera_aovservice_V3_ndk_so",
     owner: "xiaomi",
@@ -39057,9 +38300,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_clientapi_V1_ndk_so",
     owner: "xiaomi",
@@ -39085,9 +38326,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_lbs_V1_ndk_so",
     owner: "xiaomi",
@@ -39113,9 +38352,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_mbrain_V2_ndk_so",
     owner: "xiaomi",
@@ -39141,9 +38378,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_mtkpower_V1_ndk_so",
     owner: "xiaomi",
@@ -39169,9 +38404,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_mtkpower_1_0_so",
     owner: "xiaomi",
@@ -39197,9 +38430,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_mtkpower_1_1_so",
     owner: "xiaomi",
@@ -39225,9 +38456,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_mtkpower_1_2_so",
     owner: "xiaomi",
@@ -39253,9 +38482,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_mediatek_hardware_pq_aidl_V7_ndk_so",
     owner: "xiaomi",
@@ -39281,9 +38508,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_nxp_nxpese_1_0_so",
     owner: "xiaomi",
@@ -39309,9 +38534,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_nxp_nxpnfc_aidl_V1_ndk_so",
     owner: "xiaomi",
@@ -39337,9 +38560,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hardware_aidlbgservice_V1_impl_so",
     owner: "xiaomi",
@@ -39365,9 +38586,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hardware_aidlbgservice_V1_ndk_so",
     owner: "xiaomi",
@@ -39393,9 +38612,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hardware_bgservice_1_0_impl_so",
     owner: "xiaomi",
@@ -39421,9 +38638,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hardware_displayfeature_1_0_so",
     owner: "xiaomi",
@@ -39449,9 +38664,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hardware_displayfeature_aidl_V2_ndk_so",
     owner: "xiaomi",
@@ -39477,9 +38690,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hardware_fx_tunnel_1_0_so",
     owner: "xiaomi",
@@ -39505,9 +38716,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hardware_quickcamera_V1_ndk_platform_so",
     owner: "xiaomi",
@@ -39533,9 +38742,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     soc_specific: true,
 }
-}
 
-cc_prebuilt_library_shared {
 cc_prebuilt_library_shared {
     name: "vendor_xiaomi_hw_touchfeature_V1_ndk_so",
     owner: "xiaomi",
@@ -39560,7 +38767,6 @@ cc_prebuilt_library_shared {
     compile_multilib: "64",
     prefer: true,
     soc_specific: true,
-}
 }
 
 install_symlink {
