@@ -3821,7 +3821,6 @@ cc_prebuilt_library_shared {
                 "libion_mtk",
                 "libcodec2_mtk_c2store",
                 "libcodec2_vpp_qt_plugin",
-                "libcodec2_vpp_mi_plugin",
                 "libcodec2_vpp_rs_plugin",
                 "libc++",
                 "libc",
