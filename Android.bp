@@ -518,7 +518,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/hw/audio.bluetooth.default.so",
             ],
             shared_libs: [
-                "android.hardware.bluetooth.audio-V2-ndk",
+                "android.hardware.bluetooth.audio",
                 "libbluetooth_audio_session_aidl_mtk",
                 "libaudioutils",
                 "libbase",
