@@ -23257,7 +23257,7 @@ cc_prebuilt_library_shared {
                 "libbinder_ndk",
                 "android.hardware.common-V2-ndk",
                 "android.hardware.common.fmq-V1-ndk",
-                "android.hardware.audio.common-V4-ndk",
+                "android_hardware_audio_common_V2_ndk_so",
                 "libc++",
                 "libc",
                 "libm",
