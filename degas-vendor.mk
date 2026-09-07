@@ -2005,7 +2005,6 @@ PRODUCT_COPY_FILES += \
 # Proprietary files missing from original vendor dump manifest
 # (generated; excludes source-built and build-generated files)
 PRODUCT_COPY_FILES += \
-    vendor/xiaomi/degas/proprietary/product/etc/apns-conf.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/apns-conf.xml \
     vendor/xiaomi/degas/proprietary/product/etc/default-permissions/com.android.deskclock_default-permissions.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/default-permissions/com.android.deskclock_default-permissions.xml \
     vendor/xiaomi/degas/proprietary/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
     vendor/xiaomi/degas/proprietary/product/etc/init/init.openssh.rc:$(TARGET_COPY_OUT_PRODUCT)/etc/init/init.openssh.rc \
