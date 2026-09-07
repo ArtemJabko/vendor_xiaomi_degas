@@ -729,7 +729,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/odm/firmware/goodix_firmware_degas.bin:$(TARGET_COPY_OUT_ODM)/firmware/goodix_firmware_degas.bin \
     vendor/xiaomi/degas/proprietary/odm/firmware/goodix_test_limits_255.csv:$(TARGET_COPY_OUT_ODM)/firmware/goodix_test_limits_255.csv \
     vendor/xiaomi/degas/proprietary/odm/firmware/water_check.tflite:$(TARGET_COPY_OUT_ODM)/firmware/water_check.tflite \
-    vendor/xiaomi/degas/proprietary/system_ext/app/EngineerMode/EngineerMode.apk:$(TARGET_COPY_OUT_SYSTEM_EXT)/app/EngineerMode/EngineerMode.apk \
     vendor/xiaomi/degas/proprietary/system_ext/bin/vtservice:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/vtservice \
     vendor/xiaomi/degas/proprietary/system_ext/etc/init/init.vtservice.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/init.vtservice.rc \
     vendor/xiaomi/degas/proprietary/system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/com.android.hotwordenrollment.common.util.xml \
@@ -742,8 +741,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/system_ext/framework/mediatek-telecom-common.jar:$(TARGET_COPY_OUT_SYSTEM_EXT)/framework/mediatek-telecom-common.jar \
     vendor/xiaomi/degas/proprietary/system_ext/framework/mediatek-telephony-base.jar:$(TARGET_COPY_OUT_SYSTEM_EXT)/framework/mediatek-telephony-base.jar \
     vendor/xiaomi/degas/proprietary/system_ext/framework/mediatek-telephony-common.jar:$(TARGET_COPY_OUT_SYSTEM_EXT)/framework/mediatek-telephony-common.jar \
-    vendor/xiaomi/degas/proprietary/system_ext/priv-app/ImsService/ImsService.apk:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/ImsService/ImsService.apk \
-    vendor/xiaomi/degas/proprietary/system_ext/priv-app/MtkGbaService/MtkGbaService.apk:$(TARGET_COPY_OUT_SYSTEM_EXT)/priv-app/MtkGbaService/MtkGbaService.apk \
     vendor/xiaomi/degas/proprietary/vendor/bin/awk:$(TARGET_COPY_OUT_VENDOR)/bin/awk \
     vendor/xiaomi/degas/proprietary/vendor/bin/boringssl_self_test64:$(TARGET_COPY_OUT_VENDOR)/bin/boringssl_self_test64 \
     vendor/xiaomi/degas/proprietary/vendor/bin/crossbuild/DataSet/SQLiteModule/db/port_select.db:$(TARGET_COPY_OUT_VENDOR)/bin/crossbuild/DataSet/SQLiteModule/db/port_select.db \
@@ -2004,8 +2001,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/mitee/ta/a734eed9-d6a1-4244-aa507c99719e7b7f.ta:$(TARGET_COPY_OUT_VENDOR)/mitee/ta/a734eed9-d6a1-4244-aa507c99719e7b7f.ta \
     vendor/xiaomi/degas/proprietary/vendor/mitee/ta/dba51a17-0563-11e7-93b16fa7b0071a51.ta:$(TARGET_COPY_OUT_VENDOR)/mitee/ta/dba51a17-0563-11e7-93b16fa7b0071a51.ta \
     vendor/xiaomi/degas/proprietary/vendor/mitee/ta/e97c270e-a5c4-4c58-bcd3384a2fa2539e.ta:$(TARGET_COPY_OUT_VENDOR)/mitee/ta/e97c270e-a5c4-4c58-bcd3384a2fa2539e.ta \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/WifiResMainlineOverlay/WifiResMainlineOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/WifiResMainlineOverlay/WifiResMainlineOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/WifiResOverlay/WifiResOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/WifiResOverlay/WifiResOverlay.apk \
 
 # Proprietary files missing from original vendor dump manifest
 # (generated; excludes source-built and build-generated files)
@@ -2148,20 +2143,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_173/7_ringTone2_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_173/7_ringTone2_P_RTP.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_173/8_ringTone3_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_173/8_ringTone3_P_RTP.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_173/9_ringTone4_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_173/9_ringTone4_P_RTP.bin \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/DegasFrameworksOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/DegasFrameworksOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/DegasSettingsOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/DegasSettingsOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/DegasSystemUIOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/DegasSystemUIOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/DegasWifiOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/DegasWifiOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiFrameworkOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiFrameworkOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiFrameworkTelephony5gOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiFrameworkTelephony5gOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiFrameworkTelephonyOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiFrameworkTelephonyOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiNetworkStackOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiNetworkStackOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiTelephonyOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiTelephonyOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiWifi6gOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiWifi6gOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiWifiConnac3ChipsetOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiWifiConnac3ChipsetOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiWifiMultiStaOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiWifiMultiStaOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/MssiWifiOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/MssiWifiOverlay.apk \
-    vendor/xiaomi/degas/proprietary/vendor/overlay/NcmTetheringOverlay.apk:$(TARGET_COPY_OUT_VENDOR)/overlay/NcmTetheringOverlay.apk \
     vendor/xiaomi/degas/proprietary/vendor/usr/idc/goodix_ts.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/goodix_ts.idc
 
 # All proprietary prebuilt modules (from Android.bp; 6 AOSP-conflicting names excluded)
