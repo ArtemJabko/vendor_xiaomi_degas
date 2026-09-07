@@ -1204,9 +1204,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/etc/virtual-spn-conf-by-efpnn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efpnn.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/virtual-spn-conf-by-efspn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-efspn.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/virtual-spn-conf-by-imsi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/virtual-spn-conf-by-imsi.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/wifi/p2p_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/p2p_supplicant_overlay.conf \
-    vendor/xiaomi/degas/proprietary/vendor/etc/wifi/wpa_supplicant.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant.conf \
-    vendor/xiaomi/degas/proprietary/vendor/etc/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf \
     vendor/xiaomi/degas/proprietary/vendor/firmware/BT_FW.cfg:$(TARGET_COPY_OUT_VENDOR)/firmware/BT_FW.cfg \
     vendor/xiaomi/degas/proprietary/vendor/firmware/aw8697_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_haptic.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/aw8697_rtp_1.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_rtp_1.bin \
@@ -2005,59 +2002,13 @@ PRODUCT_COPY_FILES += \
 # Proprietary files missing from original vendor dump manifest
 # (generated; excludes source-built and build-generated files)
 PRODUCT_COPY_FILES += \
-    vendor/xiaomi/degas/proprietary/product/etc/default-permissions/com.android.deskclock_default-permissions.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/default-permissions/com.android.deskclock_default-permissions.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/fonts_customization.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/fonts_customization.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/init/init.openssh.rc:$(TARGET_COPY_OUT_PRODUCT)/etc/init/init.openssh.rc \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/android.software.sip.voip.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/android.software.sip.voip.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/com.android.contacts.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.contacts.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/com.android.dialer.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.dialer.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/com.android.imsserviceentitlement.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.imsserviceentitlement.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/com.android.settings.intelligence.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.android.settings.intelligence.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.android.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.android.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.globalactions.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.globalactions.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.hardware.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.hardware.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.health.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.health.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.livedisplay.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.livedisplay.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.profiles.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.profiles.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.settings.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.settings.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/org.lineageos.trust.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/org.lineageos.trust.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/permissions/privapp_whitelist_com.android.dialer-ext.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/privapp_whitelist_com.android.dialer-ext.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sensitive_pn.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sensitive_pn.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/ssh/sshd_config:$(TARGET_COPY_OUT_PRODUCT)/etc/ssh/sshd_config \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/com.android.deskclock_allowlist.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/com.android.deskclock_allowlist.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/com.android.messaging.allowlist.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/com.android.messaging.allowlist.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/initial-package-stopped-states-org.lineageos.aperture.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/initial-package-stopped-states-org.lineageos.aperture.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/initial-package-stopped-states-org.lineageos.etar.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/initial-package-stopped-states-org.lineageos.etar.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/initial-package-stopped-states-org.lineageos.glimpse.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/initial-package-stopped-states-org.lineageos.glimpse.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/initial-package-stopped-states-org.lineageos.jelly.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/initial-package-stopped-states-org.lineageos.jelly.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/initial-package-stopped-states-org.lineageos.twelve.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/initial-package-stopped-states-org.lineageos.twelve.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/lineage-component-overrides.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/lineage-component-overrides.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/lineage-sysconfig.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/lineage-sysconfig.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/org.lineageos.etar.allowlist.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/org.lineageos.etar.allowlist.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-org.lineageos.aperture.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-org.lineageos.aperture.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-org.lineageos.etar.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-org.lineageos.etar.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-org.lineageos.glimpse.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-org.lineageos.glimpse.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-org.lineageos.jelly.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-org.lineageos.jelly.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-org.lineageos.twelve.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-org.lineageos.twelve.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-platform-handheld-product.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-platform-handheld-product.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-platform-overlays.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-platform-overlays.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/sysconfig/preinstalled-packages-platform-telephony-product.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-platform-telephony-product.xml \
-    vendor/xiaomi/degas/proprietary/product/etc/vintf/compatibility_matrix.lineage.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/vintf/compatibility_matrix.lineage.xml \
-    vendor/xiaomi/degas/proprietary/vendor/apex/com.android.hardware.cas.apex:$(TARGET_COPY_OUT_VENDOR)/apex/com.android.hardware.cas.apex \
-    vendor/xiaomi/degas/proprietary/vendor/apex/com.android.hardware.drm.clearkey.apex:$(TARGET_COPY_OUT_VENDOR)/apex/com.android.hardware.drm.clearkey.apex \
     vendor/xiaomi/degas/proprietary/vendor/bin/hw/android.hardware.boot-service.mediatek:$(TARGET_COPY_OUT_VENDOR)/bin/hw/android.hardware.boot-service.mediatek \
     vendor/xiaomi/degas/proprietary/vendor/etc/HapticsPolicy.xml:$(TARGET_COPY_OUT_VENDOR)/etc/HapticsPolicy.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/aidl/hfp/hfp_codec_capabilities.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/hfp/hfp_codec_capabilities.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/aidl/le_audio/aidl_audio_set_configurations.bfbs:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/le_audio/aidl_audio_set_configurations.bfbs \
-    vendor/xiaomi/degas/proprietary/vendor/etc/aidl/le_audio/aidl_audio_set_scenarios.bfbs:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/le_audio/aidl_audio_set_scenarios.bfbs \
-    vendor/xiaomi/degas/proprietary/vendor/etc/aidl/le_audio/aidl_default_audio_set_configurations.json:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/le_audio/aidl_default_audio_set_configurations.json \
-    vendor/xiaomi/degas/proprietary/vendor/etc/aidl/le_audio/aidl_default_audio_set_scenarios.json:$(TARGET_COPY_OUT_VENDOR)/etc/aidl/le_audio/aidl_default_audio_set_scenarios.json \
     vendor/xiaomi/degas/proprietary/vendor/etc/camera/mt6897/gma_custom.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mt6897/gma_custom.txt \
     vendor/xiaomi/degas/proprietary/vendor/etc/init/android.hardware.boot-service.mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.boot-service.mediatek.rc \
     vendor/xiaomi/degas/proprietary/vendor/etc/powerhint.json:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.json \
     vendor/xiaomi/degas/proprietary/vendor/etc/thermal_info_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/thermal_info_config.json \
     vendor/xiaomi/degas/proprietary/vendor/etc/vintf/manifest/android.hardware.boot-service.mediatek.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.boot-service.mediatek.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/wifi/vendor_hals/libwifi-hal-wrapper.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/vendor_hals/libwifi-hal-wrapper.xml \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_168/0_click_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_168/0_click_P_RTP.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_168/10_ringTone4_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_168/10_ringTone4_RTP.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_168/11_ringTone4_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_168/11_ringTone4_RTP.bin \
