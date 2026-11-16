@@ -2075,7 +2075,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_173/7_ringTone2_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_173/7_ringTone2_P_RTP.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_173/8_ringTone3_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_173/8_ringTone3_P_RTP.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_173/9_ringTone4_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_173/9_ringTone4_P_RTP.bin \
-    vendor/xiaomi/degas/proprietary/vendor/usr/idc/goodix_ts.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/goodix_ts.idc
+    vendor/xiaomi/degas/proprietary/vendor/usr/idc/goodix_ts.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/goodix_ts.idc \
+    vendor/xiaomi/degas/proprietary/vendor/etc/wifi/p2p_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/p2p_supplicant_overlay.conf \
+    vendor/xiaomi/degas/proprietary/vendor/etc/wifi/wpa_supplicant.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant.conf \
+    vendor/xiaomi/degas/proprietary/vendor/etc/wifi/wpa_supplicant_overlay.conf:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/wpa_supplicant_overlay.conf
 
 # All proprietary prebuilt modules (from Android.bp; 6 AOSP-conflicting names excluded)
 PRODUCT_PACKAGES += \
