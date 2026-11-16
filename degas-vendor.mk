@@ -674,15 +674,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/odm/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_ODM)/etc/libnfc-nxp.conf \
     vendor/xiaomi/degas/proprietary/odm/etc/n12a_36_02_0b_dsc_cmd_pq.xml:$(TARGET_COPY_OUT_ODM)/etc/n12a_36_02_0b_dsc_cmd_pq.xml \
     vendor/xiaomi/degas/proprietary/odm/etc/n12a_42_02_0a_dsc_cmd_pq.xml:$(TARGET_COPY_OUT_ODM)/etc/n12a_42_02_0a_dsc_cmd_pq.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/android.hardware.nfc.ese.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.nfc.ese.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/android.hardware.nfc.hce.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.nfc.hce.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/android.hardware.nfc.hcef.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.nfc.hcef.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/android.hardware.nfc.uicc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.nfc.uicc.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/android.hardware.nfc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.nfc.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/android.hardware.se.omapi.ese.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.se.omapi.ese.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/android.hardware.se.omapi.uicc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/android.hardware.se.omapi.uicc.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/com.android.nfc_extras.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/com.android.nfc_extras.xml \
-    vendor/xiaomi/degas/proprietary/odm/etc/permissions/com.nxp.mifare.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/com.nxp.mifare.xml \
     vendor/xiaomi/degas/proprietary/odm/etc/selinux/odm_mac_permissions.xml:$(TARGET_COPY_OUT_ODM)/etc/selinux/odm_mac_permissions.xml \
     vendor/xiaomi/degas/proprietary/odm/etc/selinux/odm_sepolicy.cil:$(TARGET_COPY_OUT_ODM)/etc/selinux/odm_sepolicy.cil \
     vendor/xiaomi/degas/proprietary/odm/etc/selinux/precompiled_sepolicy:$(TARGET_COPY_OUT_ODM)/etc/selinux/precompiled_sepolicy \
@@ -793,7 +784,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/etc/MNL_Config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/MNL_Config.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/NOTICE.xml.gz:$(TARGET_COPY_OUT_VENDOR)/etc/NOTICE.xml.gz \
     vendor/xiaomi/degas/proprietary/vendor/etc/audio_device.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_device.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/audio_effects.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_effects.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/audio_param/AudioParamOptions_mgvi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/AudioParamOptions_mgvi.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/audio_param/AudioParamOptions_vext.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/AudioParamOptions_vext.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/audio_param/BtInfo_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/BtInfo_AudioParam.xml \
@@ -920,8 +910,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/VolumeGainMap_ParamUnitDesc.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/audio_param/Volume_AudioParam.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_AudioParam.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/audio_param/Volume_ParamUnitDesc.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/Volume_ParamUnitDesc.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_configuration.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/audio_policy_volumes.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy_volumes.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/audiodata.db:$(TARGET_COPY_OUT_VENDOR)/etc/audiodata.db \
     vendor/xiaomi/degas/proprietary/vendor/etc/aurisys_config.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/aurisys_config_hifi3.xml:$(TARGET_COPY_OUT_VENDOR)/etc/aurisys_config_hifi3.xml \
@@ -987,7 +975,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/etc/camera/mimotion_f4w.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mimotion_f4w.bin \
     vendor/xiaomi/degas/proprietary/vendor/etc/camera/mimotion_f5b.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mimotion_f5b.bin \
     vendor/xiaomi/degas/proprietary/vendor/etc/camera/mimotion_f5w.bin:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mimotion_f5w.bin \
-    vendor/xiaomi/degas/proprietary/vendor/etc/default_volume_tables.xml:$(TARGET_COPY_OUT_VENDOR)/etc/default_volume_tables.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/displayconfig/display_id_4627039422300187648.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4627039422300187648.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/ecc_list.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/ecc_list_OP01.xml:$(TARGET_COPY_OUT_VENDOR)/etc/ecc_list_OP01.xml \
@@ -1103,7 +1090,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.camera.concurrent.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.camera.concurrent.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.consumerir.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.consumerir.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.identity_credential.mitee.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.identity_credential.mitee.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.keystore.app_attest_key.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.keystore.app_attest_key.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.location.gps.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.location.gps.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.sensor.dynamic.head_tracker.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.sensor.dynamic.head_tracker.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.sensor.gyroscope.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.sensor.gyroscope.prebuilt.xml \
@@ -1118,12 +1104,10 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.wifi.direct.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.wifi.direct.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.wifi.passpoint.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.wifi.passpoint.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.hardware.wifi.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.wifi.prebuilt.xml \
-    vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.software.device_id_attestation.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.device_id_attestation.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.software.opengles.deqp.level-2023-03-01.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.opengles.deqp.level-2023-03-01.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/permissions/android.software.vulkan.deqp.level-2023-03-01.prebuilt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.vulkan.deqp.level-2023-03-01.prebuilt.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/pq_flag.xml:$(TARGET_COPY_OUT_VENDOR)/etc/pq_flag.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/public.libraries.txt:$(TARGET_COPY_OUT_VENDOR)/etc/public.libraries.txt \
-    vendor/xiaomi/degas/proprietary/vendor/etc/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/seccomp_policy/android.hardware.media.c2@1.2-extended-seccomp-policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/android.hardware.media.c2@1.2-extended-seccomp-policy \
     vendor/xiaomi/degas/proprietary/vendor/etc/seccomp_policy/android.hardware.media.c2@1.2-mediatek-seccomp-policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/android.hardware.media.c2@1.2-mediatek-seccomp-policy \
     vendor/xiaomi/degas/proprietary/vendor/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediacodec.policy \
@@ -2006,8 +1990,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/degas/proprietary/vendor/etc/HapticsPolicy.xml:$(TARGET_COPY_OUT_VENDOR)/etc/HapticsPolicy.xml \
     vendor/xiaomi/degas/proprietary/vendor/etc/camera/mt6897/gma_custom.txt:$(TARGET_COPY_OUT_VENDOR)/etc/camera/mt6897/gma_custom.txt \
     vendor/xiaomi/degas/proprietary/vendor/etc/init/android.hardware.boot-service.mediatek.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/android.hardware.boot-service.mediatek.rc \
-    vendor/xiaomi/degas/proprietary/vendor/etc/powerhint.json:$(TARGET_COPY_OUT_VENDOR)/etc/powerhint.json \
-    vendor/xiaomi/degas/proprietary/vendor/etc/thermal_info_config.json:$(TARGET_COPY_OUT_VENDOR)/etc/thermal_info_config.json \
     vendor/xiaomi/degas/proprietary/vendor/etc/vintf/manifest/android.hardware.boot-service.mediatek.xml:$(TARGET_COPY_OUT_VENDOR)/etc/vintf/manifest/android.hardware.boot-service.mediatek.xml \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_168/0_click_P_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_168/0_click_P_RTP.bin \
     vendor/xiaomi/degas/proprietary/vendor/firmware/vib_168/10_ringTone4_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/vib_168/10_ringTone4_RTP.bin \
